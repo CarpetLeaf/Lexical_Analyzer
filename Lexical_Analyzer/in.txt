@@ -1,0 +1,9 @@
+begin
+	a :=9;
+	b:=k!=k>5;
+	/*aaa*/
+	/*
+	aaa
+	*/
+	do until (((a>b) and c<d) or x=y z:=k+1; z:=k+1 loop
+end

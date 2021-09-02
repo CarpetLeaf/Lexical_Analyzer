@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Алексей\source\repos\Lexical_Analyzer\Lexical_Analyzer\Source.cpp(68,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\Lexical_Analyzer\Lexical_Analyzer\Source.cpp(75,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\Lexical_Analyzer\Lexical_Analyzer\Source.cpp(86,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Lexical_Analyzer.vcxproj -> C:\Users\Алексей\source\repos\Lexical_Analyzer\Debug\Lexical_Analyzer.exe
